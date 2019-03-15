@@ -12,6 +12,7 @@ namespace HolaMundo
 		static void Main(String[] args)
 		{
 			Console.WriteLine("Hola Mundo!");
+			Console.WriteLine("Aquí estamos haciendo pruebas con Git.");
 		}
 	}
 }
